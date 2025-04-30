@@ -1,1 +1,0 @@
-*.blog-rbac-backend filter=lfs diff=lfs merge=lfs -text
